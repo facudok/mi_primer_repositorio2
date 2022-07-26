@@ -1,3 +1,3 @@
 # mi_primer_repositorio2
 
-# Esta es la reama 1
+# Esta es la rama 1
